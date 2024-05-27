@@ -1,0 +1,5 @@
+Flask==2.0.3
+moviepy==1.0.3
+spleeter==2.3.0
+pydub==0.25.1
+gevent==21.12.0
